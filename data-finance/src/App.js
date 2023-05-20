@@ -1,20 +1,18 @@
 import React from "react";
-import Navbar from "./Components/Navbar1";
-import Hero from "./Components/Hero";
-import Analytics from "./Components/Analytics";
-import Newsletter from "./Components/Newsletter";
-import Cards from "./Components/Cards";
-import Footer from "./Components/Footer";
+// import Mainpage from "./Pages/Mainpage";
+import Contact from "./Pages/Contact";
+// import { Router,Routes, Route } from "react-router";
 
 function App() {
   return (
     <div className="App">
-      <Navbar />
-      <Hero />
-      <Analytics />
-      <Newsletter />
-      <Cards />
-      <Footer />
+      {/* <Router>
+        <Routes>
+          <Route path="/" element={<Mainpage />} />
+        </Routes>
+      </Router> */}
+      {/* <Mainpage /> */}
+      <Contact />
 
     </div>
   );
