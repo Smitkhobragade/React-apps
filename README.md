@@ -7,3 +7,6 @@ This repository contains various React apps projects that showcase different fun
 
 # Contributing
 Contributions are welcome! If you have an idea for a new project or an improvement to an existing one, feel free to submit a pull request. Please make sure to follow the contribution guidelines outlined in the repository's main README file.
+
+## Contributors 🎉✨
+- [Smitkhobragade](https://github.com/Smitkhobragade)
